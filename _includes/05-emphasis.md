@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Maybe i have no choice*This text will be italic*
+That is why i am here*This text will be bold*
